@@ -1,6 +1,6 @@
 import React from "react";
-import { projectData } from "../data/project_data";
-import ExperienceCard from "./cards/ExperienceCard";
+import { projectData } from "../data/project_data.js";
+import ExperienceCard from "./cards/ExperienceCard.jsx";
 
 const Projects = () => {
   return (
